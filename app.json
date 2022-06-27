@@ -1,0 +1,8 @@
+{"stack": "container",
+    "env": {
+        "API_ID": {"description": "Get this value from https://my.telegram.org"},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org"},
+        "DB_URL": {"description": "Mongodb url from https://cloud.mongodb.com/"},
+        "BOT_TOKEN": {"description": "Bot token - Get this from @botfather"},
+        "OWNER_ID": {"description": "Your U$3R 1D"}
+}}
